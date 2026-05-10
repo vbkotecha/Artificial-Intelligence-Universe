@@ -901,6 +901,7 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **[Canva Magic Studio](https://canva.com)**: Complete AI-powered design suite.
 - **[InVideo AI](https://invideo.io)**: Create social media videos from a simple script.
 - **[Brandmark](https://brandmark.io/)**: Professional logo and branding generator with AI.
+- **[NotFair](https://notfair.co/)**: Hosted Google Ads MCP server connecting Claude and other AI agents to a Google Ads account; diagnose performance, recommend optimizations, and execute approved changes.
 
 ### E-commerce & Retail
 - **[Klaviyo (AI)](https://klaviyo.com)**: Predictive marketing and sales automation for online stores.

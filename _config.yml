@@ -1,6 +1,9 @@
-# To use a custom domain, create a CNAME file in this docs/ directory
-# containing your domain name (e.g., "example.com"), then configure DNS
-# as described at: https://docs.github.com/en/pages/configuring-a-custom-domain
+# GitHub Pages configuration — builds from repo root
+# The README.md is the homepage (via jekyll-readme-index plugin)
+#
+# To use a custom domain, create a CNAME file at the repo root
+# containing your domain name, then configure DNS:
+# https://docs.github.com/en/pages/configuring-a-custom-domain
 
 title: Artificial Intelligence Universe
 description: The most expansive ecosystem of AI on GitHub. 800+ tools, autonomous agents, and next-gen resources.
@@ -18,6 +21,7 @@ show_downloads: false
 # google_analytics: UA-XXXXXXXXX-X
 
 plugins:
+  - jekyll-readme-index
   - jekyll-sitemap
   - jekyll-seo-tag
 
@@ -25,6 +29,7 @@ exclude:
   - 'Gemfile'
   - 'Gemfile.lock'
   - 'node_modules'
+  - 'docs/'
 
 author: Frangel Raúl Crespo Barrera
 twitter_username: frangelbarrera

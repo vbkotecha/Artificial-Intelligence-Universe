@@ -254,7 +254,7 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **[FastLaunch](https://fastlaunch.io/)** - FastLaunch - Launch & Discover Amazing Products
 - **[Grabon AI Directory](https://www.grabon.in/indulge/ai-tools/)** - The World's Best & Largest Directory Of AI Tools
 - **[God of Prompt](https://godofprompt.ai/best-ai-tools/)** - 1000+ Best AI Tools for Marketing & Business
-- **[GroupifyAI](https://groupify.ai/?ref=github)** - Explore, Compare & Review Best Trending AI tools & AI courses on the top AI platform.
+- **[GroupifyAI](https://groupify.ai/)** - Explore, Compare & Review Best Trending AI tools & AI courses on the top AI platform.
 - **[Havnai](https://havnai.com/)** - The world's first AI tool directory offering 60-second video intros for each tool and one-click AI tool lists by industry name.
 - **[HeyAIworld](https://heyaiworld.com/)** - All-in-one platform for finding best AI tools, people to follow, best AI tools for each profession and more.
 - **[IA sur mesure](https://iasurmesure.com/)** - A french directory
@@ -628,16 +628,16 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **[Taskade](https://www.taskade.com/)**: Build, train, and deploy autonomous AI agents for task management, team collaboration, and workflow automation—all within a unified workspace.
 - **[Notion AI](https://www.notion.so/product/ai)**: Write better, more efficient notes and docs.
 - **[Nekton AI](https://nekton.ai)**: Automate your workflows with AI. Describe your workflows step by step in plain language.
-- **[Elephas](https://elephas.app/?ref=mahseema-awesome-ai-tools)**: Personal AI writing assistant for the Mac.
-- **[Lemmy](https://lemmy.co/?ref=mahseema-awesome-ai-tools)**: Autonomous AI Assistant for Work.
-- **[Google Sheets Formula Generator](https://bettersheets.co/google-sheets-formula-generator?ref=mahseema-awesome-ai-tools)**: Forget about frustrating formulas in Google Sheets.
-- **[CreateEasily](https://createeasily.com/?ref=mahseema-awesome-ai-tools)**: Free speech-to-text tool for content creators that accurately transcribes audio & video files up to 2GB.
+- **[Elephas](https://elephas.app/)**: Personal AI writing assistant for the Mac.
+- **[Lemmy](https://lemmy.co/)**: Autonomous AI Assistant for Work.
+- **[Google Sheets Formula Generator](https://bettersheets.co/google-sheets-formula-generator)**: Forget about frustrating formulas in Google Sheets.
+- **[CreateEasily](https://createeasily.com/)**: Free speech-to-text tool for content creators that accurately transcribes audio & video files up to 2GB.
 - **[Cosmos](https://meetcosmos.com/)**: Use AI locally and offline to search your media files by their content, find similar images or video scenes using reference images, and transcribe video.
 - **[aiPDF](https://aipdf.ai)**: The most advanced AI document assistant
 - **[Summary With AI](https://www.summarywithai.com/)**: Summarize any long PDF with AI. Comprehensive summaries using information from all pages of a document.
-- **[Emilio](https://getemil.io?ref=mahseema-awesome-ai-tools)**: Stop drowning in emails - Emilio prioritizes and automates your email, saving 60% of your time
+- **[Emilio](https://getemil.io)**: Stop drowning in emails - Emilio prioritizes and automates your email, saving 60% of your time
 - **[Pieces](https://pieces.app/)**: AI-enabled productivity tool designed to supercharge developer efficiency,with an on-device copilot that helps capture, enrich, and reuse useful materials, streamline collaboration, and solve complex problems through a contextual understanding of dev workflow
-- **[Huntr AI Resume Builder](https://huntr.co/product/ai-resume-builder/?ref=mahseema-awesome-ai-tools)**: Craft the perfect resume, with a little help from AI. Huntr's customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.
+- **[Huntr AI Resume Builder](https://huntr.co/product/ai-resume-builder/)**: Craft the perfect resume, with a little help from AI. Huntr's customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.
 - **[Chat With PDF by Copilot.us](https://copilot.us/apps/chat-with-pdf)**: An AI app that enables dialogue with PDF documents, supporting interactions with multiple files simultaneously through language models.
 - **[Recall](https://www.getrecall.ai/)**: Summarize Anything, Forget Nothing
 - **[Talently AI](https://interview.talently.ai/?utm_source=mahseema-awesome-ai-tool&utm_medium=c_and_p&utm_campaign=tool-listing)**: An Al interviewer that conducts live, conversational interviews and gives real-time evaluations to effortlessly identify top performers and scale your recruitment process.
@@ -693,8 +693,8 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **[Mathos AI](https://www.mathgptpro.com/)**: Best AI math solver, calculator & tutor.
 
 ### Customer Support
-- **[SiteGPT](https://sitegpt.ai/?ref=mahseema-awesome-ai-tools)**: Make AI your expert customer support agent.
-- **[GPTHelp.ai](https://gpthelp.ai/?ref=mahseema-awesome-ai-tools)**: ChatGPT for your website / AI customer support chatbot.
+- **[SiteGPT](https://sitegpt.ai/)**: Make AI your expert customer support agent.
+- **[GPTHelp.ai](https://gpthelp.ai/)**: ChatGPT for your website / AI customer support chatbot.
 - **[SiteSpeakAI](https://sitespeak.ai)**: Automate your customer support with AI.
 - **[Dear AI](https://www.dearai.online)**: Supercharge Customer Services and boost sales with AI Chatbot.
 - **[Inline Help](https://inlinehelp.com)**: Answer customer questions before they ask
@@ -704,7 +704,7 @@ This is a comprehensive and organized collection of directories, tools, learning
 ### Other Text Generators
 - **[EmailTriager](https://www.emailtriager.com/)**: Use AI to automatically draft email replies in the background.
 - **[AI Poem Generator](https://www.aipoemgenerator.org)**: AI Poem Generator writes a beautiful rhyming poem for you on any subject, given a text prompt.
-- **[Never Jobless LinkedIn Message Generator](https://neverjobless.com/?ref=mahseema-awesome-ai-tools)**: Maximize Your Interview Chances with AI-Powered LinkedIn Messaging.
+- **[Never Jobless LinkedIn Message Generator](https://neverjobless.com/)**: Maximize Your Interview Chances with AI-Powered LinkedIn Messaging.
 
 ### Developer Tools
 - **[Ollama](https://ollama.com/)**: Load and run large LLMs locally to use in your terminal or build your apps.
@@ -780,7 +780,7 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **[RunDiffusion](https://rundiffusion.com/)**: Cloud-based workspace for creating AI-generated art.
 - **[Human Generator](https://generated.photos/human-generator)**: AI generator or realistic looking photos of humans.
 - **[VectorArt.ai](https://vectorart.ai)**: Create vector images with AI.
-- **[StockPhotoAI.net](https://www.stockphotoai.net/?ref=mahseema-awesome-ai-tools)**: Great stock photos, made for you.
+- **[StockPhotoAI.net](https://www.stockphotoai.net/)**: Great stock photos, made for you.
 - **[Room Reinvented](https://roomreinvented.com)**: Transform your room effortlessly with Room Reinvented! Upload a photo and let AI create over 30 stunning interior styles. Elevate your space today.
 - **[Gensbot](https://gensbot.com)**: Gensbot uses AI to craft personalised printed merchandise. One prompt creates one unique product to fit your needs.
 - **[PlantPhotoAI](https://www.plantphotoai.com/)**: free AI-generated plant images

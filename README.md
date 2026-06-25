@@ -1,6 +1,5 @@
 # 🌌 Artificial Intelligence Universe 2026
 
-
 This is a comprehensive and organized collection of directories, tools, learning resources, and advanced AI applications. Designed for developers, researchers, entrepreneurs, and AI enthusiasts seeking the best solutions for their projects.
 
 ##  Repository Statistics
@@ -9,7 +8,6 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **50+** specialized categories
 - **25+** free educational resources
 - Continuously updated with the latest innovations
-
 
 ![GitHub stars](https://img.shields.io/github/stars/frangelbarrera/Artificial-Intelligence-Universe?style=for-the-badge&color=gold)
 ![GitHub last commit](https://img.shields.io/github/last-commit/frangelbarrera/Artificial-Intelligence-Universe?style=for-the-badge&color=blue)
@@ -210,7 +208,6 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **[AiToolz](https://aitoolz.net)**Find useful AI tools.
 - **[AI Toolz Dir](https://www.aitoolzdir.com)** - Submit your AI Tool to aitoolzdir and get a DR 27 Backlink for free
 - **[AI Parabellum](https://aiparabellum.com)** - Find Tomorrow's AI Tools Today
-- **[AI Agent Store](https://aiagentstore.ai)** - Find AI Agents and AI Agent building tools or list your own Agent.
 - **[AI Agents Base](https://aiagentsbase.com)** - Your All-in-One AI Agents Directory
 - **[AI Agents List](https://aiagentslist.com/)** - Discover and compare the best AI agents for your needs.
 - **[AI Agents Directory](https://aiagentsdirectory.com/)** - Specialized directory for AI Agents and Frameworks, UPDATED DAILY
@@ -353,7 +350,6 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **[CodeReviewBot](https://codereviewbot.ai)**: AI bot for automated code reviews and quality assurance.
 - **[JetBrains Qodana](https://www.jetbrains.com/qodana/)**: AI-powered static analysis for code quality and refactoring.
 - **[Amazon Q Developer Review Agent](https://aws.amazon.com/q/developer/)**: AI tool for automated code reviews in AWS projects.
-- **[Refact.ai](https://refact.ai/)**: AI-driven refactoring and code optimization for cleaner codebases.
 - **[Codiga](https://www.codiga.io/)**: AI-powered static code analysis for security and quality checks.
 - **[DeepCode](https://www.deepcode.ai/)**: AI-based code review tool for detecting bugs and vulnerabilities.
 - **[ReSharper](https://www.jetbrains.com/resharper/)**: AI-enhanced refactoring and code quality tool for .NET developers.
@@ -393,7 +389,6 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **[ACCELQ](https://www.accelq.com/)**: Codeless test automation with AI-powered test design.
 - **[Reflect](https://reflect.run/)**: No-code test automation with AI-powered maintenance.
 - **[QA.tech](https://qa.tech/)**: AI-powered quality assurance and testing.
-- **[Octomind](https://octomind.dev/)**: AI-powered end-to-end testing.
 - **[Testsprite](https://testsprite.com/)**: AI-powered testing automation.
 - **[DiffBlue Cover](https://www.diffblue.com/)**: AI-powered tool specifically for generating comprehensive unit tests for Java applications.
 - **[Testim](https://www.testim.io/)**: AI-powered end-to-end testing platform with self-healing test capabilities and smart locators.
@@ -552,7 +547,6 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **[Character.AI](https://character.ai/)**: Character.AI lets you create characters and chat to them.
 - **[ChatPDF](https://www.chatpdf.com/)**: Chat with any PDF.
 - **[ChatSonic](https://writesonic.com/chat)**: An AI-powered assistant that enables text and image creation.
-- **[Phind](https://www.phind.com/)**: Phind is an intelligent search engine and assistant for programmers.
 - **[Tiledesk](https://tiledesk.com/)**: Open-source LLM-enabled no-code chatbot development framework.
 - **[AICamp](https://aicamp.so/)**: ChatGPT for Teams
 - **[Gali Chat](https://www.galichat.com/)**: Your 24/7 AI Support Assistant that helps you grow your business!
@@ -563,7 +557,6 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **[Kazimir.ai](https://kazimir.ai/)**: A search engine designed to search AI-generated images.
 - **[Perplexity AI](https://www.perplexity.ai/)**: AI powered search tools.
 - **[Metaphor](https://metaphor.systems/)**: Language model powered search.
-- **[Phind](https://phind.com/)**: AI-based search engine.
 - **[You.com](https://you.com/)**: A search engine built on AI that provides users with a customized search experience while keeping their data 100% private.
 - **[Komo AI](https://komo.ai/)**: An AI based Search engine which responses quick and short answers.
 - **[Telborg](https://telborg.com/)**: AI for Climate Research, with data exclusively from governments, international institutions and companies.
@@ -598,7 +591,6 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **[Yomu](https://www.yomu.ai)**: AI writing assistant for students and academics.
 - **[Listomatic](https://listomatic.app)**: Free and fully configurable real estate listing description generator.
 - **[Quick Creator](https://quickcreator.io)**: SEO-Optimized Blog platform powered by AI.
-- **[Telborg](https://telborg.com/)**: Write a high-quality first draft on any Climate topic in minutes
 - **[Trolly.ai](https://trolly.ai/)**: Trolly.ai can help you in creating professional SEO articles, 2x faster. This tool crafts content that search engines love, propelling you up the rankings.
 - **[Dittto.ai](https://dittto.ai)**: Fix your hero copy with an AI trained on top SaaS websites.
 - **[PulsePost](https://pulsepost.io/)**: AI writer that Auto Publishes to your own website
@@ -743,7 +735,6 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **[ToolHive](https://github.com/stacklok/toolhive)**: Find the right MCP server for your task and deploy with one click.
 - **[StarOps](https://ingenimax.ai)**: AI Platform Engineer
 - **[AgentDock](https://agentdock.ai)**: Unified infrastructure for AI agents and automation. One API key for all services instead of managing dozens. Build production-ready agents without operational complexity.
-- **[Codeflash](https://www.codeflash.ai/)**: Ship Blazing-Fast Python Code — Every Time.
 - **[Rysa AI](https://www.rysa.ai)**: AI GTM Automation Agent
 - **[Agenta](https://agenta.ai/)**: Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications.
 
@@ -808,7 +799,6 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **[KREA](https://www.krea.ai/)**: Explore millions of AI-generated images and create collections of prompts. Featuring Stable Diffusion generations.
 - **[OpenArt](https://openart.ai/)**: Search 10M+ of prompts, and generate AI art via Stable Diffusion, DALL·E 2.
 - **[Phygital](https://app.phygital.plus/)**: Built-in templates for generating or editing any pictures. Moreover, you can create your own design.
-- **[Canva](https://www.canva.com/ai-image-generator/)**: Generating AI Images.
 
 ### Model Libraries
 - **[Civitai](https://civitai.com/)**: Community-driven AI model sharing tool.
@@ -845,7 +835,6 @@ This is a comprehensive and organized collection of directories, tools, learning
 
 ### Music Generation
 - **[Splash Pro](https://www.splashpro.com)**: A versatile platform offering intuitive music creation tools for all skill levels.
-- **[AIVA](https://www.aiva.ai)**: AI composer specializing in classical and cinematic music creation.
 - **[Mubert](https://www.mubert.com)**: Real-time generative music tailored for different use cases.
 - **[Soundraw](https://soundraw.io)**: Allows users to customize music compositions based on mood and style.
 - **[Beatoven.ai](https://www.beatoven.ai)**: AI-driven music generation focused on evoking specific emotions.
@@ -855,7 +844,6 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **[Soundful](https://www.soundful.com)**: High-quality, royalty-free music for content creators.
 - **[AI Music Generator](https://www.aisongmaker.io)**: Effortlessly Create Songs with AI
 - **[Harmonai](https://www.harmonai.org/)**: We are a community-driven organization releasing open-source generative audio tools to make music production more accessible and fun for everyone.
-- **[Mubert](https://mubert.com/)**: A royalty-free music ecosystem for content creators, brands and developers.
 - **[MusicLM](https://google-research.github.io/seanet/musiclm/examples/)**: A model by Google Research for generating high-fidelity music from text descriptions.
 - **[Remusic](https://remusic.ai/en)**: AI Music Generator and Music Learning Platform Online Free.
 
@@ -902,7 +890,6 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **[Buffer AI](https://buffer.com)**: Assistant for drafting and scheduling social media content.
 - **[Canva Magic Studio](https://canva.com)**: Complete AI-powered design suite.
 - **[InVideo AI](https://invideo.io)**: Create social media videos from a simple script.
-- **[Brandmark](https://brandmark.io/)**: Professional logo and branding generator with AI.
 - **[NotFair](https://notfair.co/)**: Hosted Google Ads MCP server connecting Claude and other AI agents to a Google Ads account; diagnose performance, recommend optimizations, and execute approved changes.
 
 ### E-commerce & Retail
@@ -936,7 +923,6 @@ This is a comprehensive and organized collection of directories, tools, learning
 ### Education & Learning
 - **[TeachBetter.ai](https://teachbetter.ai)**: Comprehensive platform for teachers with more than 20 AI educational tools.
 - **[360Learning](https://360learning.com)**: Collaborative learning platform that uses AI to personalize upskilling.
-- **[NotebookLM (Google)](https://notebooklm.google)**: Your smart notebook that understands your documents and creates summaries.
 - **[Khanmigo (Khan Academy)](https://khanacademy.org/khanmigo)**: Personalized AI tutor for students and assistant for teachers.
 
 ##  Models & Agents
@@ -954,7 +940,6 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **[Qwen 2.5](https://github.com/QwenLM/Qwen)**: Leader in programming and mathematics benchmarks in the open source world.
 
 ### AI Agents & Frameworks
-- **[CrewAI](https://crewai.com)**: Framework to orchestrate teams of autonomous agents.
 - **[AutoGPT](https://agpt.co)**: One of the first and most powerful open-source autonomous agents.
 - **[SuperAGI](https://superagi.com)**: Infrastructure to build, manage, and deploy AI agents.
 - **[n8n AI](https://n8n.io)**: Workflow automation with native AI nodes.
@@ -965,7 +950,6 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **[SearchGPT](https://openai.com/search)**: OpenAI's bet to compete directly in the search engine market.
 
 ### Local & Private AI
-- **[Ollama](https://ollama.com)**: The easiest way to run powerful LLMs locally on macOS, Linux, and Windows.
 - **[LM Studio](https://lmstudio.ai)**: Graphical interface to discover and run local models (GGUF).
 - **[vLLM](https://vllm.ai)**: High-performance library for serving LLMs with amazing memory efficiency.
 - **[Jan](https://jan.ai)**: Open source alternative to ChatGPT that works 100% offline on your computer.
@@ -973,8 +957,6 @@ This is a comprehensive and organized collection of directories, tools, learning
 ##  Frontiers & Vanguard
 
 ### Scientific Research
-- **[Consensus](https://consensus.app)**: Search engine that extracts answers directly from scientific studies.
-- **[Elicit](https://elicit.com)**: Research assistant that analyzes thousands of papers in seconds.
 - **[Semantic Scholar](https://semanticscholar.org)**: AI-powered academic search engine.
 - **[Scite.ai](https://scite.ai)**: Verifies if papers have been supported or contradicted by others.
 - **[Scholarcy](https://scholarcy.com)**: Summarizes and extracts key points from long academic documents.
@@ -1009,7 +991,6 @@ This is a comprehensive and organized collection of directories, tools, learning
 
 ---
 
-
 ## 🤝 Contributing
 
 Contributions make this catalog what it is — thank you for considering it! Whether you're adding a new AI tool, fixing a broken link, or proposing a new category, we welcome your help.
@@ -1024,12 +1005,3 @@ Contributions make this catalog what it is — thank you for considering it! Whe
 Every contribution counts. Quality contributors are recognized in the [Contributors graph](https://github.com/frangelbarrera/Artificial-Intelligence-Universe/graphs/contributors) and may be invited as collaborators.
 
 🌟 **Star this repo if you find it useful — it helps more people discover the catalog!**
-
-
-
-
-
-
-
-
-

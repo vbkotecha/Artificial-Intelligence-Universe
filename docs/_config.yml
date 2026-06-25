@@ -18,12 +18,8 @@ show_downloads: false
 # google_analytics: UA-XXXXXXXXX-X
 
 plugins:
-  - jekyll-readme-index
   - jekyll-sitemap
   - jekyll-seo-tag
-
-include:
-  - '_pages'
 
 exclude:
   - 'Gemfile'

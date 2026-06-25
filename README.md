@@ -600,7 +600,7 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **[GPTLocalhost](https://gptlocalhost.com/demo)**: A local Word Add-in for you to use local LLM servers in Microsoft Word. Alternative to "Copilot in Word" and completely.
 
 ### ChatGPT Extensions
-- **[Gist AI](https://www.gistai.tech?utm_source=tool_directory&utm_medium=post&utm_campaign=launch)**: ChatGPT-powered free Summarizer for Websites, YouTube and PDF.
+- **[Gist AI](https://www.gistai.tech)**: ChatGPT-powered free Summarizer for Websites, YouTube and PDF.
 - **[WebChatGPT](https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn)**: Augment your ChatGPT prompts with relevant results from the web.
 - **[GPT for Sheets and Docs](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654)**: ChatGPT extension for Google Sheets and Google Docs.
 - **[YouTube Summary with ChatGPT](https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli)**: Use ChatGPT to summarize YouTube videos.
@@ -632,7 +632,7 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **[Huntr AI Resume Builder](https://huntr.co/product/ai-resume-builder)**: Craft the perfect resume, with a little help from AI. Huntr's customizable AI Resume Builder will help you craft a.
 - **[Chat With PDF by Copilot.us](https://copilot.us/apps/chat-with-pdf)**: An AI app that enables dialogue with PDF documents, supporting interactions with multiple files simultaneously through.
 - **[Recall](https://www.getrecall.ai/)**: Summarize Anything, Forget Nothing.
-- **[Talently AI](https://interview.talently.ai/?utm_source=mahseema-awesome-ai-tool&utm_medium=c_and_p&utm_campaign=tool-listing)**: An Al interviewer that conducts live, conversational interviews and gives real-time evaluations to effortlessly.
+- **[Talently AI](https://interview.talently.ai/)**: An Al interviewer that conducts live, conversational interviews and gives real-time evaluations to effortlessly.
 - **[TailorTask](https://wwww.tailortask.ai)**: Automate any boring and repetitive task, without having to learn a new tool.
 - **[AnkiDecks AI](https://anki-decks.com)**: Create Flashcards 10x faster. Generate Anki Flashcards from any File or Text with AI.
 - **[AI for Google Slides](https://www.aiforgoogleslides.com/)**: AI presentation maker for Google Slides.
@@ -721,7 +721,7 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **[Pagerly](https://www.pagerly.io)**: Your Operations Co-pilot on Slack/Teams. It assists and prompts oncall with relevant information to debug issues.
 - **[Hexabot](https://hexabot.ai)**: A Open-source No-Code tool to build your AI Chatbot / Agent (multi-lingual, multi-channel, LLM, NLU, + ability to.
 - **[Plandex](https://github.com/plandex-ai/plandex)**: Open source, terminal-based AI programming engine for complex tasks.
-- **[AI/ML API](https://aimlapi.com/?utm_source=github+of+altern.ai)**: AI/ML API gives developers access to 100+ AI models with one API.
+- **[AI/ML API](https://aimlapi.com/)**: AI/ML API gives developers access to 100+ AI models with one API.
 - **[Callstack.ai PR Reviewer](https://callstack.ai/pr-reviewer)**: Automated Code Reviews: Find Bugs, Fix Security Issues, and Speed Up Performance.
 - **[Opik](https://www.comet.com/site/products/opik)**: Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs.
 - **[Kiln](https://getkiln.ai)**: Intuitive app to build your own AI models. Includes no-code synthetic data generation, fine-tuning, dataset.

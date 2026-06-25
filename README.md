@@ -14,6 +14,7 @@ This is a comprehensive and organized collection of directories, tools, learning
 ![GitHub stars](https://img.shields.io/github/stars/frangelbarrera/AI-Encyclopedia?style=for-the-badge&color=gold)
 ![GitHub last commit](https://img.shields.io/github/last-commit/frangelbarrera/AI-Encyclopedia?style=for-the-badge&color=blue)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)
+![PR Validation](https://img.shields.io/github/actions/workflow/status/frangelbarrera/Artificial-Intelligence-Universe/validate-pr.yml?style=for-the-badge&label=PR%20Validation)
 
 ---
 

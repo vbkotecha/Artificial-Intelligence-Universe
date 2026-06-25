@@ -22,6 +22,8 @@ show_downloads: false
 
 plugins:
   - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-optional-front-matter
   - jekyll-sitemap
   - jekyll-seo-tag
 

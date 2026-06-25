@@ -306,7 +306,7 @@ This is a comprehensive and organized collection of directories, tools, learning
 ### AI Code Assistants & Editors
 - **[Cursor](https://www.cursor.sh/)**: AI-powered code editor with advanced autocompletion and real-time coding assistance.
 - **[Cody (Sourcegraph)](https://about.sourcegraph.com/cody)**: AI assistant for code understanding, navigation, and generation across repositories.
-- **[Windsurf](https://windsurf.com/)**: AI-powered code editor with a powerful and advanced flexible coding agent that goes beyond simple autocompletion and code generation.
+- **[Windsurf](https://windsurf.com/)**: AI-powered code editor with a powerful and advanced flexible coding agent that goes beyond simple autocompletion and.
 - **[Aider](https://aider.chat)**: Collaborative AI tool for pair-programming and generating code edits via CLI.
 - **[Phind](https://www.phind.com/)**: AI search and coding assistant for instant answers and code solutions.
 - **[Kilo Code](https://kilocode.ai)**: AI-enhanced coding tool for generating and optimizing code workflows.
@@ -426,14 +426,14 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **[JFrog Xray](https://jfrog.com/xray)**: AI-driven security and compliance scanning for DevOps pipelines and artifact repositories.
 
 ### AI Security Tools
-- **[Snyk Code AI](https://snyk.io/product/snyk-code)**: Static Application Security Testing (SAST) tool for scanning source code for vulnerabilities and insecure patterns as you write, powered by DeepCode AI.
-- **[Snyk API & Web](https://snyk.io/product/api-security)**: Dynamic Application Security Testing (DAST) tool for discovering and testing the security of running APIs and web applications using AI-driven analysis.
+- **[Snyk Code AI](https://snyk.io/product/snyk-code)**: Static Application Security Testing (SAST) tool for scanning source code for vulnerabilities and insecure patterns as.
+- **[Snyk API & Web](https://snyk.io/product/api-security)**: Dynamic Application Security Testing (DAST) tool for discovering and testing the security of running APIs and web.
 - **Snyk DeepCode AI**: The AI engine that powers Snyk Code and other Snyk security tools, providing advanced vulnerability detection, autofix, and risk prioritization. (Not a standalone product)
-- **[GitGuardian AI](https://www.gitguardian.com/)**: AI-based tool that monitors codebases for leaked secrets, API keys, credentials, and sensitive information across both public and private repositories.
-- **[Bearer CLI](https://github.com/Bearer/bearer)**: Open-source AI tool for static security analysis, specializing in detecting sensitive data exposure and ensuring compliance with regulations like GDPR and PCI-DSS.
-- **[HackerOne Code](https://www.hackerone.com/product/code)**: Combines AI and human expertise for code security, offering context-aware vulnerability detection, triage, and remediation tailored for AI-generated and human-written code.
-- **[Endor Labs AI Code Security](https://www.endorlabs.com/ai-code-security-review)**: AI-driven code review platform that analyzes every pull request for security risks, architectural changes, and business logic vulnerabilities, with actionable insights and context.
-- **[Code Intelligence CI Fuzz](https://www.code-intelligence.com/)**: AI-automated fuzz testing tool for C/C++ and other languages, enabling developers to find and fix critical bugs and vulnerabilities early in the development process.
+- **[GitGuardian AI](https://www.gitguardian.com/)**: AI-based tool that monitors codebases for leaked secrets, API keys, credentials, and sensitive information across both.
+- **[Bearer CLI](https://github.com/Bearer/bearer)**: Open-source AI tool for static security analysis, specializing in detecting sensitive data exposure and ensuring.
+- **[HackerOne Code](https://www.hackerone.com/product/code)**: Combines AI and human expertise for code security, offering context-aware vulnerability detection, triage, and.
+- **[Endor Labs AI Code Security](https://www.endorlabs.com/ai-code-security-review)**: AI-driven code review platform that analyzes every pull request for security risks, architectural changes, and business.
+- **[Code Intelligence CI Fuzz](https://www.code-intelligence.com/)**: AI-automated fuzz testing tool for C/C++ and other languages, enabling developers to find and fix critical bugs and.
 
 ### App Builders & Generators
 - **[Mage](https://usemage.ai/)**: AI-powered tool for generating full-stack applications from prompts.
@@ -444,7 +444,7 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **[Lovable](https://lovable.dev/)**: AI-powered platform that lets you create and deploy apps from a single prompt.
 - **[Capacity](https://capacity.so/)**: Agentic coding platform that uses Claude Code under the hood to turn anyone's idea into a full stack web app.
 - **[Shakespeare](https://shakespeare.diy)**: Open-source & decentralized AI tool for building web apps in the browser with natural language chat.
-- **[CreateLex](https://createlex.com)**: AI-powered plugin for Unreal Engine that lets developers generate Blueprints, C++ code, and node graphs using natural language — streamlining game and XR development directly in the editor.
+- **[CreateLex](https://createlex.com)**: AI-powered plugin for Unreal Engine that lets developers generate Blueprints, C++ code, and node graphs using natural.
 - **[Replit](https://replit.com/)**: Complete cloud-based development environment with AI assistance.
 - **[Microsoft Power Apps](https://powerapps.microsoft.com/)**: Enterprise low-code platform with AI-powered app generation.
 - **[Glide](https://www.glideapps.com/)**: No-code mobile app builder with AI features and template library.
@@ -473,11 +473,11 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **[Deepsite](https://huggingface.co/spaces/enzostvs/deepsite)**: An AI platform that helps you build stunning websites, no code required.
 - **[Rendition Create](https://www.renditioncreate.com/)**: AI-powered UI generator for web and mobile interfaces.
 - **[Phorm.ai](https://phorm.ai/)**: AI-powered form and interface generation.
-- **[Stitch (by Google)](https://stitch.withgoogle.com/)**: AI-powered UI generator from Google Labs, uses Gemini models to convert natural language or image inputs into multi-screen mobile/web UI designs and clean front‑end code; supports Figma export and conversational iteration.
+- **[Stitch (by Google)](https://stitch.withgoogle.com/)**: AI-powered UI generator from Google Labs, uses Gemini models to convert natural language or image inputs into.
 - **[Uizard](https://uizard.io/)**: AI-powered design tool converting hand-drawn mockups, screenshots, or text into interactive prototypes and code.
 - **[Figma AI](https://figma.com/ai)**: Native AI features within Figma for automated design tasks, content generation, and design-to-code workflows.
 - **[TeleportHQ](https://teleporthq.io/)**: AI-powered front-end design platform generating production-ready code from visual designs.
-- **[Freepik](https://www.freepik.com/)**: AI-powered design platform with image generation, background removal, and mockup creation tools for UI designers and developers.
+- **[Freepik](https://www.freepik.com/)**: AI-powered design platform with image generation, background removal, and mockup creation tools for UI designers and.
 
 ### Documentation Tools
 - **[Trelent](https://trelent.net/)**: AI-powered tool for generating code documentation and comments.
@@ -490,7 +490,7 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **[Mintlify](https://mintlify.com/)**: AI-powered documentation platform that automatically generates and maintains technical documentation from code.
 - **[GitBook AI](https://gitbook.com/ai)**: AI-enhanced documentation platform with intelligent content suggestions and automated organization.
 - **[Slab](https://slab.com/)**: Team knowledge base with AI-powered search, content suggestions, and automated documentation workflows.
-- **[GPTutor](https://gptutor.tools/)**: VS Code extension offering customizable LLM‑powered code explanations and tutoring across 120+ human languages and 50+ programming languages.
+- **[GPTutor](https://gptutor.tools/)**: VS Code extension offering customizable LLM‑powered code explanations and tutoring across 120+ human languages and.
 
 ### ChatGPT in Your Editor
 - **[CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim)**: Neovim plugin for integrating ChatGPT-powered code assistance.
@@ -522,16 +522,16 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **[Cursor MCP Directory](https://cursor.directory/mcp)**: Directory of MCP servers and tools curated by Cursor.
 - **[VSCode MCP Directory](https://code.visualstudio.com/mcp)**: Official VSCode directory for MCP servers and integrations.
 - **[Claude MCP Servers](https://www.claudemcp.com/servers)**: Claude's curated list of MCP servers.
-- **[PulseMCP Server Directory](https://www.pulsemcp.com/servers)**: Large, frequently updated directory of MCP servers, including trending, official, and community servers across many categories.
+- **[PulseMCP Server Directory](https://www.pulsemcp.com/servers)**: Large, frequently updated directory of MCP servers, including trending, official, and community servers across many.
 - **[MCPServers.Net](https://mcpservers.net/)**: Comprehensive MCP server navigation platform, featuring official and community servers, tutorials, and resources.
 
 ##  Text & Writing Tools
 
 ### Language Models
-- **[OpenAI API](https://openai.com/api)**: OpenAI's API provides access to GPT-3 and GPT-4 models, which performs a wide variety of natural language tasks, and Codex, which translates natural language to code.
+- **[OpenAI API](https://openai.com/api)**: OpenAI's API provides access to GPT-3 and GPT-4 models, which performs a wide variety of natural language tasks, and.
 - **[Gopher](https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval)**: Gopher by DeepMind is a 280 billion parameter language model.
 - **[OPT](https://huggingface.co/facebook/opt-350m)**: Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers.
-- **[Bloom](https://huggingface.co/docs/transformers/model_doc/bloom)**: BLOOM by Hugging Face is a model similar to GPT-3 that has been trained on 46 different languages and 13 programming languages.
+- **[Bloom](https://huggingface.co/docs/transformers/model_doc/bloom)**: BLOOM by Hugging Face is a model similar to GPT-3 that has been trained on 46 different languages and 13 programming.
 - **[LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai)**: A foundational, 65-billion-parameter large language model by Meta.
 - **[Llama 2](https://ai.meta.com/llama)**: The next generation of Meta's open source large language model.
 - **[Claude 3](https://claude.ai/)**: Talk to Claude, an AI assistant from Anthropic.
@@ -557,7 +557,7 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **[Kazimir.ai](https://kazimir.ai/)**: A search engine designed to search AI-generated images.
 - **[Perplexity AI](https://www.perplexity.ai/)**: AI powered search tools.
 - **[Metaphor](https://metaphor.systems/)**: Language model powered search.
-- **[You.com](https://you.com/)**: A search engine built on AI that provides users with a customized search experience while keeping their data 100% private.
+- **[You.com](https://you.com/)**: A search engine built on AI that provides users with a customized search experience while keeping their data 100%.
 - **[Komo AI](https://komo.ai/)**: An AI based Search engine which responses quick and short answers.
 - **[Telborg](https://telborg.com/)**: AI for Climate Research, with data exclusively from governments, international institutions and companies.
 - **[MemFree](https://github.com/memfreeme/memfree)**: Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs.
@@ -591,13 +591,13 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **[Yomu](https://www.yomu.ai)**: AI writing assistant for students and academics.
 - **[Listomatic](https://listomatic.app)**: Free and fully configurable real estate listing description generator.
 - **[Quick Creator](https://quickcreator.io)**: SEO-Optimized Blog platform powered by AI.
-- **[Trolly.ai](https://trolly.ai/)**: Trolly.ai can help you in creating professional SEO articles, 2x faster. This tool crafts content that search engines love, propelling you up the rankings.
+- **[Trolly.ai](https://trolly.ai/)**: Trolly.ai can help you in creating professional SEO articles, 2x faster. This tool crafts content that search engines.
 - **[Dittto.ai](https://dittto.ai)**: Fix your hero copy with an AI trained on top SaaS websites.
 - **[PulsePost](https://pulsepost.io/)**: AI writer that Auto Publishes to your own website.
 - **[Shy Editor](https://www.shyeditor.com)**: A modern AI-assisted writing environment for all types of prose.
 - **[DeepL Write](https://www.deepl.com/write)**: AI writing tool that improves written communication.
-- **[Headlinesai.pro](https://www.headlinesai.pro/)**: This AI powered tool can help you in generating catchy and optimized headlines based on your content for multiple platforms like Youtube, Medium, Indie Hackers and Reddit.
-- **[GPTLocalhost](https://gptlocalhost.com/demo)**: A local Word Add-in for you to use local LLM servers in Microsoft Word. Alternative to "Copilot in Word" and completely local.
+- **[Headlinesai.pro](https://www.headlinesai.pro/)**: This AI powered tool can help you in generating catchy and optimized headlines based on your content for multiple.
+- **[GPTLocalhost](https://gptlocalhost.com/demo)**: A local Word Add-in for you to use local LLM servers in Microsoft Word. Alternative to "Copilot in Word" and completely.
 
 ### ChatGPT Extensions
 - **[Gist AI](https://www.gistai.tech?utm_source=tool_directory&utm_medium=post&utm_campaign=launch)**: ChatGPT-powered free Summarizer for Websites, YouTube and PDF.
@@ -616,31 +616,31 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **[AI Character for GPT](https://chromewebstore.google.com/detail/ai-character-for-gpt/daoeioifimkjegafelcaljboknjkkohh)**: One click to curate AI chatbot, including ChatGPT, Google Bard to improve AI responses.
 
 ### Productivity Tools
-- **[Mem](https://mem.ai/)**: Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.
-- **[Taskade](https://www.taskade.com/)**: Build, train, and deploy autonomous AI agents for task management, team collaboration, and workflow automation—all within a unified workspace.
+- **[Mem](https://mem.ai/)**: Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the.
+- **[Taskade](https://www.taskade.com/)**: Build, train, and deploy autonomous AI agents for task management, team collaboration, and workflow automation—all.
 - **[Notion AI](https://www.notion.so/product/ai)**: Write better, more efficient notes and docs.
 - **[Nekton AI](https://nekton.ai)**: Automate your workflows with AI. Describe your workflows step by step in plain language.
 - **[Elephas](https://elephas.app/)**: Personal AI writing assistant for the Mac.
 - **[Lemmy](https://lemmy.co/)**: Autonomous AI Assistant for Work.
 - **[Google Sheets Formula Generator](https://bettersheets.co/google-sheets-formula-generator)**: Forget about frustrating formulas in Google Sheets.
 - **[CreateEasily](https://createeasily.com/)**: Free speech-to-text tool for content creators that accurately transcribes audio & video files up to 2GB.
-- **[Cosmos](https://meetcosmos.com/)**: Use AI locally and offline to search your media files by their content, find similar images or video scenes using reference images, and transcribe video.
+- **[Cosmos](https://meetcosmos.com/)**: Use AI locally and offline to search your media files by their content, find similar images or video scenes using.
 - **[aiPDF](https://aipdf.ai)**: The most advanced AI document assistant.
 - **[Summary With AI](https://www.summarywithai.com/)**: Summarize any long PDF with AI. Comprehensive summaries using information from all pages of a document.
 - **[Emilio](https://getemil.io)**: Stop drowning in emails - Emilio prioritizes and automates your email, saving 60% of your time.
-- **[Pieces](https://pieces.app/)**: AI-enabled productivity tool designed to supercharge developer efficiency,with an on-device copilot that helps capture, enrich, and reuse useful materials, streamline collaboration, and solve complex problems through a contextual understanding of dev workflow.
-- **[Huntr AI Resume Builder](https://huntr.co/product/ai-resume-builder)**: Craft the perfect resume, with a little help from AI. Huntr's customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.
-- **[Chat With PDF by Copilot.us](https://copilot.us/apps/chat-with-pdf)**: An AI app that enables dialogue with PDF documents, supporting interactions with multiple files simultaneously through language models.
+- **[Pieces](https://pieces.app/)**: AI-enabled productivity tool designed to supercharge developer efficiency,with an on-device copilot that helps capture,.
+- **[Huntr AI Resume Builder](https://huntr.co/product/ai-resume-builder)**: Craft the perfect resume, with a little help from AI. Huntr's customizable AI Resume Builder will help you craft a.
+- **[Chat With PDF by Copilot.us](https://copilot.us/apps/chat-with-pdf)**: An AI app that enables dialogue with PDF documents, supporting interactions with multiple files simultaneously through.
 - **[Recall](https://www.getrecall.ai/)**: Summarize Anything, Forget Nothing.
-- **[Talently AI](https://interview.talently.ai/?utm_source=mahseema-awesome-ai-tool&utm_medium=c_and_p&utm_campaign=tool-listing)**: An Al interviewer that conducts live, conversational interviews and gives real-time evaluations to effortlessly identify top performers and scale your recruitment process.
+- **[Talently AI](https://interview.talently.ai/?utm_source=mahseema-awesome-ai-tool&utm_medium=c_and_p&utm_campaign=tool-listing)**: An Al interviewer that conducts live, conversational interviews and gives real-time evaluations to effortlessly.
 - **[TailorTask](https://wwww.tailortask.ai)**: Automate any boring and repetitive task, without having to learn a new tool.
 - **[AnkiDecks AI](https://anki-decks.com)**: Create Flashcards 10x faster. Generate Anki Flashcards from any File or Text with AI.
 - **[AI for Google Slides](https://www.aiforgoogleslides.com/)**: AI presentation maker for Google Slides.
 - **[FARSITE](https://far.site/)**: AI-Powered Compliance Software for U.S. Government Contractors.
 - **[GOSH](https://gosh.app)**: Free AI Price Tracker - Track any price of any product at any store using AI.
-- **[BrainSoup](https://www.nurgo-software.com/products/brainsoup)**: Multi-agent & multi-LLM native client where AIs can remember, react to events, use tools, leverage local and external resources, and work together autonomously.
+- **[BrainSoup](https://www.nurgo-software.com/products/brainsoup)**: Multi-agent & multi-LLM native client where AIs can remember, react to events, use tools, leverage local and external.
 - **[MindPal](https://mindpal.space/)**: Build your AI Second Brain with a team of AI agents and multi-agent workflow.
-- **[fabric](https://github.com/danielmiessler/fabric)**: Apply AI to everyday challenges in the comfort of your terminal. Help's to get better results with tried and tested library of prompt pattern's.
+- **[fabric](https://github.com/danielmiessler/fabric)**: Apply AI to everyday challenges in the comfort of your terminal. Help's to get better results with tried and tested.
 - **[Riffo](https://riffo.ai/)**: An AI-powered file management tool for bulk renaming and automatic folder organization.
 - **[SlidesWizard](https://slideswizard.io)**: Create Presentations 10x faster. Generate PowerPoint and Google Slides presentations about any topic with AI.
 - **[Transgate](https://transgate.ai/)**: AI Speech to Text.
@@ -648,7 +648,7 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **[Rember](https://www.rember.com/)**: A simple yet powerful spaced repetition system designed to help you remember more.
 - **[Qurate](https://qurate.appcradle.net/)**: AI Quote Companion, which can help in finding relavant quotes according to the context.
 - **[FirmOS](https://www.firmos.ai/)**: AI-Powered Automation for Accounting Firms.
-- **[Whisper API](https://whisper-api.com)**: Whisper API is a Transcription API Powered By OpenAI Whisper model. Get 5 free transcriptions daily (no duration limits) with robust control over the model's parameters like size, temperature, beam size and more.
+- **[Whisper API](https://whisper-api.com)**: Whisper API is a Transcription API Powered By OpenAI Whisper model. Get 5 free transcriptions daily (no duration.
 - **[Smmry](https://smmry.com/)**: Summarize Long Content Into Clear Insights.
 - **[Nudge AI](https://getnudgeai.com/)**: Ambient AI Scribe for Healthcare.
 - **[Summara](https://summara.io/)**: YouTube AI Summary and Transcript widget.
@@ -658,9 +658,9 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **[Kosmik](https://www.kosmik.app)**: AI moodboarding platform.
 - **[Magic Potion](https://www.magicpotion.app)**: Visual AI Prompt Editor.
 - **[MinusX](https://minusx.ai/)**: Have an AI Analyst answer all your data questions reliably on Metabase.
-- **[Excelmatic](https://excelmatic.ai)**: AI-Powered Excel Data Analysis and Visualization, Skip the functions—just upload, chat, and watch your data turn into insights and visuals.
+- **[Excelmatic](https://excelmatic.ai)**: AI-Powered Excel Data Analysis and Visualization, Skip the functions—just upload, chat, and watch your data turn into.
 - **[Langfa.st](https://langfa.st/)**: A fast, no-signup playground to test and share AI prompt templates.
-- **[CallURL](https://callurl.com)**: Build a free Call App in 60 seconds, give it a job, and share it by link or QR to handle calls for workflows like lead qualification, quote requests, surveys, support, and screening.
+- **[CallURL](https://callurl.com)**: Build a free Call App in 60 seconds, give it a job, and share it by link or QR to handle calls for workflows like lead.
 - **[SalesAgent Chat](https://www.salesagent.chat)**: AI Sales Coach & Copilot for real-time support.
 - **[ReBillion.ai](https://tc.rebillion.ai/)**: AI-powered transaction coordination and workflow automation for real estate professionals.
 - **[Perch Reader](https://perch.app/)**: Free blog and newsletter aggregator with AI summaries and text-to-speech.
@@ -669,15 +669,15 @@ This is a comprehensive and organized collection of directories, tools, learning
 ### Meeting Assistants
 - **[Otter.ai](https://otter.ai/)**: A meeting assistant that records audio, writes notes, automatically captures slides, and generates summaries.
 - **[Cogram](https://www.cogram.com/)**: Cogram takes automatic notes in virtual meetings and identifies action items.
-- **[Sybill](https://www.sybill.ai/)**: Sybill generates summaries of sales calls, including next steps, pain points and areas of interest, by combining transcript and emotion-based insights.
-- **[Loopin AI](https://www.loopinhq.com/)**: Loopin is a collaborative meeting workspace that not only enables you to record, transcribe & summaries meetings using AI, but also enables you to auto-organise meeting notes on top of your calendar.
+- **[Sybill](https://www.sybill.ai/)**: Sybill generates summaries of sales calls, including next steps, pain points and areas of interest, by combining.
+- **[Loopin AI](https://www.loopinhq.com/)**: Loopin is a collaborative meeting workspace that not only enables you to record, transcribe & summaries meetings using.
 - **[Scribbl](https://www.scribbl.co)**: AI Meeting Notes.
 
 ### Academic & Research Tools
 - **[Elicit](https://elicit.org/)**: Elicit uses language models to help you automate research workflows, like parts of literature review.
 - **[genei](https://www.genei.io/)**: Summarise academic articles in seconds and save 80% on your research times.
 - **[Explainpaper](https://www.explainpaper.com/)**: A better way to read academic papers. Upload a paper, highlight confusing text, get an explanation.
-- **[Galactica](https://galactica.org/)**: A large language model for science. Can summarize academic literature, solve math problems, generate Wiki articles, write scientific code, annotate molecules and proteins, and more.
+- **[Galactica](https://galactica.org/)**: A large language model for science. Can summarize academic literature, solve math problems, generate Wiki articles,.
 - **[Consensus](https://consensus.app/search)**: Consensus is a search engine that uses AI to find answers in scientific research.
 - **[Sourcely](https://www.sourcely.net/)**: Academic Citation Finding Tool with AI.
 - **[SciSpace](https://scispace.com/)**: AI Chat for scientific PDFs.
@@ -704,48 +704,48 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **[Haystack](https://haystack.deepset.ai/)**: A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
 - **[Keploy](https://keploy.io/)**: Open source Tool for converting user traffic to Test Cases and Data Stubs.
 - **[LangChain](https://langchain.com/)**: A framework for developing applications powered by language models.
-- **[Portia AI](https://www.portialabs.ai/)**: Open source framework for building agents that pre-express their planned actions, share their progress and can be interrupted by a human.
+- **[Portia AI](https://www.portialabs.ai/)**: Open source framework for building agents that pre-express their planned actions, share their progress and can be.
 - **[gpt4all](https://github.com/nomic-ai/gpt4all)**: A chatbot trained on a massive collection of clean assistant data including code, stories and dialogue.
 - **[LMQL](https://lmql.ai/)**: LMQL is a query language for large language models.
 - **[LlamaIndex](https://www.llamaindex.ai/)**: A data framework for building LLM applications over external data.
-- **[Langfuse](https://langfuse.com/)**: Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications.
-- **[Phoenix](https://phoenix.arize.com/)**: Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine-tune LLM, CV and tabular models.
+- **[Langfuse](https://langfuse.com/)**: Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM.
+- **[Phoenix](https://phoenix.arize.com/)**: Open-source tool for ML observability that runs in your notebook environment, by Arize.
 - **[Prediction Guard](https://www.predictionguard.com/)**: Seamlessly integrate private, controlled, and compliant Large Language Models (LLM) functionality.
 - **[Portkey](https://portkey.ai/)**: Full-stack LLMOps platform to monitor, manage, and improve LLM-based apps.
 - **[OpenAI Downtime Monitor](https://status.portkey.ai/)**: Free tool that tracks API uptime and latencies for various OpenAI models and other LLM providers.
 - **[ChatWithCloud](https://chatwithcloud.ai/)**: CLI allowing you to interact with AWS Cloud using human language inside your Terminal.
 - **[SinglebaseCloud](https://singlebase.cloud)**: AI-powered backend platform with Vector DB, DocumentDB, Auth, and more to speed up app development.
-- **[Maxim AI](https://www.getmaxim.ai/)**: A generative AI evaluation and observability platform, empowering modern AI teams to ship products with quality, reliability, and speed.
-- **[Wordware](https://www.wordware.ai)**: A web-hosted IDE where non-technical domain experts work with AI Engineers to build task-specific AI agents. It approaches prompting as a new programming language rather than low/no-code blocks.
+- **[Maxim AI](https://www.getmaxim.ai/)**: A generative AI evaluation and observability platform, empowering modern AI teams to ship products with quality,.
+- **[Wordware](https://www.wordware.ai)**: A web-hosted IDE where non-technical domain experts work with AI Engineers to build task-specific AI agents.
 - **[CodeRabbit](https://coderabbit.ai/)**: An AI-powered code review tool that helps developers improve code quality and productivity.
 - **[Pagerly](https://www.pagerly.io)**: Your Operations Co-pilot on Slack/Teams. It assists and prompts oncall with relevant information to debug issues.
-- **[Hexabot](https://hexabot.ai)**: A Open-source No-Code tool to build your AI Chatbot / Agent (multi-lingual, multi-channel, LLM, NLU, + ability to develop custom extensions).
+- **[Hexabot](https://hexabot.ai)**: A Open-source No-Code tool to build your AI Chatbot / Agent (multi-lingual, multi-channel, LLM, NLU, + ability to.
 - **[Plandex](https://github.com/plandex-ai/plandex)**: Open source, terminal-based AI programming engine for complex tasks.
 - **[AI/ML API](https://aimlapi.com/?utm_source=github+of+altern.ai)**: AI/ML API gives developers access to 100+ AI models with one API.
 - **[Callstack.ai PR Reviewer](https://callstack.ai/pr-reviewer)**: Automated Code Reviews: Find Bugs, Fix Security Issues, and Speed Up Performance.
-- **[Opik](https://www.comet.com/site/products/opik)**: Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle.
-- **[Kiln](https://getkiln.ai)**: Intuitive app to build your own AI models. Includes no-code synthetic data generation, fine-tuning, dataset collaboration, and more.
+- **[Opik](https://www.comet.com/site/products/opik)**: Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs.
+- **[Kiln](https://getkiln.ai)**: Intuitive app to build your own AI models. Includes no-code synthetic data generation, fine-tuning, dataset.
 - **[Calmo](https://getcalmo.com/)**: Debug Production x10 Faster with AI.
 - **[Cleanlab](https://help.cleanlab.ai/tlm)**: Detect and remediate hallucinations in any LLM application.
-- **[Amazon Q Developer CLI](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line.html?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el)**: CLI that provides command completion, command translation using generative AI to translate intent to commands, and a full agentic chat interface with context management that helps you write code.
+- **[Amazon Q Developer CLI](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line.html?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el)**: CLI that provides command completion, command translation using generative AI to translate intent to commands, and a.
 - **[Agentic Radar](https://github.com/splx-ai/agentic-radar)**: Open-source CLI security scanner for agentic workflows.
 - **[VoltAgent](https://github.com/voltagent/voltagent)**: A TypeScript framework for building and running AI agents with tools, memory, and visibility.
 - **[Notte](https://github.com/nottelabs/notte)**: Notte is the fastest, most reliable Browser Using Agents framework.
-- **[TensorZero](https://www.tensorzero.com/)**: An open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation.
+- **[TensorZero](https://www.tensorzero.com/)**: An open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability,.
 - **[ToolHive](https://github.com/stacklok/toolhive)**: Find the right MCP server for your task and deploy with one click.
 - **[StarOps](https://ingenimax.ai)**: AI Platform Engineer.
-- **[AgentDock](https://agentdock.ai)**: Unified infrastructure for AI agents and automation. One API key for all services instead of managing dozens. Build production-ready agents without operational complexity.
+- **[AgentDock](https://agentdock.ai)**: Unified infrastructure for AI agents and automation. One API key for all services instead of managing dozens.
 - **[Rysa AI](https://www.rysa.ai)**: AI GTM Automation Agent.
-- **[Agenta](https://agenta.ai/)**: Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications.
+- **[Agenta](https://agenta.ai/)**: Open-source LLMOps platform for prompt management, LLM evaluation, and observability.
 
 ##  Image & Design Tools
 
 ### Image Generation Models
 - **[DALL·E 2](https://openai.com/dall-e-2)**: DALL·E 2 by OpenAI is a new AI system that can create realistic images and art from a description in natural language.
 - **[Stable Diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4)**: Stable Diffusion by Stability AI is a state-of-the-art text-to-image model that generates images from text.
-- **[Midjourney](https://www.midjourney.com/)**: Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
-- **[Imagen](https://imagen.research.google/)**: Imagen by Google is a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding.
-- **[Make-A-Scene](https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation)**: Make-A-Scene by Meta is a multimodal generative AI method puts creative control in the hands of people who use it by allowing them to describe and illustrate their vision through both text descriptions and freeform sketches.
+- **[Midjourney](https://www.midjourney.com/)**: Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the.
+- **[Imagen](https://imagen.research.google/)**: Imagen by Google is a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of.
+- **[Make-A-Scene](https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation)**: Make-A-Scene by Meta is a multimodal generative AI method puts creative control in the hands of people who use it by.
 - **[DragGAN](https://github.com/XingangPan/DragGAN)**: Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold.
 - **[Canva](https://www.canva.com/)**: Generate and Edit your Pictures with the help of AI.
 
@@ -753,16 +753,16 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **[Craiyon](https://www.craiyon.com/)**: Craiyon, formerly DALL-E mini, is an AI model that can draw images from any text prompt.
 - **[DreamStudio](https://beta.dreamstudio.ai/)**: DreamStudio is an easy-to-use interface for creating images using the Stable Diffusion image generation model.
 - **[Artbreeder](https://www.artbreeder.com/)**: Artbreeder is a new type of creative tool that empowers users creativity by making it easier to collaborate and explore.
-- **[GauGAN2](http://gaugan.org/gaugan2)**: GauGAN2 is a robust tool for creating photorealistic art using a combination of words and drawings since it integrates segmentation mapping, inpainting, and text-to-image production in a single model.
+- **[GauGAN2](http://gaugan.org/gaugan2)**: GauGAN2 is a robust tool for creating photorealistic art using a combination of words and drawings since it integrates.
 - **[Magic Eraser](https://www.magiceraser.io/)**: Remove unwanted things from images in seconds.
 - **[Imagine by Magic Studio](https://magicstudio.com/imagine)**: A tool by Magic Studio that let's you express yourself by just describing what's on your mind.
 - **[Alpaca](https://www.getalpaca.io/)**: Stable Diffusion Photoshop plugin.
 - **[Patience.ai](https://www.patience.ai/)**: Patience.ai is an app for creating images with Stable Diffusion, a cutting-edge AI developed by Stability.AI.
-- **[GenShare](https://www.genshare.io/)**: Generate art in seconds for free. Own and share what you create. A multimedia generative studio, democratizing design and creativity.
-- **[Playground AI](https://playgroundai.com/)**: Playground AI is a free-to-use online AI image creator. Use it to create art, social media posts, presentations, posters, videos, logos and more.
-- **[Pixelz AI Art Generator](https://pixelz.ai/)**: Pixelz AI Art Generator enables you to create incredible art from text. Stable Diffusion, CLIP Guided Diffusion & PXL·E realistic algorithms available.
+- **[GenShare](https://www.genshare.io/)**: Generate art in seconds for free. Own and share what you create. A multimedia generative studio, democratizing design.
+- **[Playground AI](https://playgroundai.com/)**: Playground AI is a free-to-use online AI image creator. Use it to create art, social media posts, presentations,.
+- **[Pixelz AI Art Generator](https://pixelz.ai/)**: Pixelz AI Art Generator enables you to create incredible art from text. Stable Diffusion, CLIP Guided Diffusion &.
 - **[modyfi](https://www.modyfi.io/)**: The image editor you've always wanted. AI-powered creative tools in your browser. Real-time collaboration.
-- **[Ponzu](https://www.ponzu.ai/)**: Ponzu is your free AI logo generator. Build your brand with creatively designed logos in seconds, using only your imagination.
+- **[Ponzu](https://www.ponzu.ai/)**: Ponzu is your free AI logo generator. Build your brand with creatively designed logos in seconds, using only your.
 - **[PhotoRoom](https://www.photoroom.com/)**: Create product and portrait pictures using only your phone. Remove background, change background and showcase products.
 - **[PhotoGuruAI](https://photoguruai.com/)**: Create professional AI Headshots in various styles.
 - **[Avatar AI](https://avatarai.me/)**: Create your own AI-generated avatars.
@@ -772,17 +772,17 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **[Human Generator](https://generated.photos/human-generator)**: AI generator or realistic looking photos of humans.
 - **[VectorArt.ai](https://vectorart.ai)**: Create vector images with AI.
 - **[StockPhotoAI.net](https://www.stockphotoai.net/)**: Great stock photos, made for you.
-- **[Room Reinvented](https://roomreinvented.com)**: Transform your room effortlessly with Room Reinvented! Upload a photo and let AI create over 30 stunning interior styles. Elevate your space today.
+- **[Room Reinvented](https://roomreinvented.com)**: Transform your room effortlessly with Room Reinvented! Upload a photo and let AI create over 30 stunning interior.
 - **[Gensbot](https://gensbot.com)**: Gensbot uses AI to craft personalised printed merchandise. One prompt creates one unique product to fit your needs.
 - **[PlantPhotoAI](https://www.plantphotoai.com/)**: free AI-generated plant images.
-- **[RepublicLabs.AI](https://republiclabs.ai/)**: multi-model simultaneous generation from a single prompt, fully unrestricted and packed with the latest greatest AI models.
+- **[RepublicLabs.AI](https://republiclabs.ai/)**: multi-model simultaneous generation from a single prompt, fully unrestricted and packed with the latest greatest AI.
 - **[Black Headshots](https://www.blackheadshots.com)**: AI headshots generator for black professionals.
 - **[Pixvify AI](https://pixvify.com/)**: Free realistic AI photo generator platform.
 - **[Pawtrait](https://www.pawtrait.art/)**: AI Pet Portraits.
 - **[iColoring](https://icoloring.ai)**: Free AI Coloring Pages Generator.
 - **[Suit me Up](https://suitmeup.pictures/)**: Generate pictures of you wearing a suit with AI.
 - **[AI Photo Forge](https://aiphotoforge.com/)**: A Telegram bot to generate AI pictures of you.
-- **[AI Boost](https://boost.pictures/)**: All-in-one service for creating and editing images with AI: upscale images, swap faces, generate new visuals and avatars, try on outfits, reshape body contours, change backgrounds, retouch faces, and even test out tattoos.
+- **[AI Boost](https://boost.pictures/)**: All-in-one service for creating and editing images with AI: upscale images, swap faces, generate new visuals and.
 - **[PlantTattoosAI](https://www.planttattoosai.com/)**: Plant and flower tattoos designs generator trained on real botanicals.
 
 ### Graphic Design Tools
@@ -819,7 +819,7 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **[iZotope (AI Suite)](https://izotope.com)**: Professional mastering and audio cleaning tools assisted by AI.
 
 ### Voice Cloning & Synthesis
-- **[Descript Overdub](https://www.descript.com/overdub)**: Seamlessly integrates with Descript's transcription and editing tools, ideal for content creators needing quick voiceovers.
+- **[Descript Overdub](https://www.descript.com/overdub)**: Seamlessly integrates with Descript's transcription and editing tools, ideal for content creators needing quick.
 - **[Respeecher](https://www.respeecher.com/)**: A professional tool widely used in the entertainment industry to create emotion-rich, realistic voice clones.
 - **[ElevenLabs](https://elevenlabs.io/)**: Known for ultra-realistic voice cloning and emotion modeling, setting a new standard in AI-driven voice synthesis.
 - **[Resemble AI](https://www.resemble.ai/)**: Offers real-time voice synthesis with customization options, making it versatile for both developers and creatives.
@@ -830,7 +830,7 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **[WellSaid Labs](https://www.wellsaidlabs.com/)**: Gaining traction for its natural-sounding voiceovers, particularly in corporate training and e-learning.
 - **[Lovo.ai](https://www.lovo.ai/)**: A compelling choice for creative professionals, especially useful in ads and explainer videos.
 - **[Zenmic.com](https://zenmic.com)**: An app to generate podcast eposode ( script + Audio ) using AI.
-- **[Audify AI](https://audify-ai.ahmedtokyo.com)**: User-friendly platform for voice synthesis with customizable options and instructions, making it versatile for both developers and creatives.
+- **[Audify AI](https://audify-ai.ahmedtokyo.com)**: User-friendly platform for voice synthesis with customizable options and instructions, making it versatile for both.
 - **[TTS WebUI](https://github.com/rsxdalv/tts-generation-webui)**: Open Source generative AI App for voice and music, supporting 15+ TTS models.
 
 ### Music Generation
@@ -843,14 +843,14 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **[Loudly](https://www.loudly.com)**: Combines AI music generation with a social platform for collaboration.
 - **[Soundful](https://www.soundful.com)**: High-quality, royalty-free music for content creators.
 - **[AI Music Generator](https://www.aisongmaker.io)**: Effortlessly Create Songs with AI.
-- **[Harmonai](https://www.harmonai.org/)**: We are a community-driven organization releasing open-source generative audio tools to make music production more accessible and fun for everyone.
+- **[Harmonai](https://www.harmonai.org/)**: We are a community-driven organization releasing open-source generative audio tools to make music production more.
 - **[MusicLM](https://google-research.github.io/seanet/musiclm/examples)**: A model by Google Research for generating high-fidelity music from text descriptions.
 - **[Remusic](https://remusic.ai/en)**: AI Music Generator and Music Learning Platform Online Free.
 
 ### Video Creation & Editing
 - **[RunwayML](https://runwayml.com/)**: Magical AI tools, realtime collaboration, precision editing, and more. Your next-generation content creation suite.
 - **[Synthesia](https://www.synthesia.io/)**: Create videos from plain text in minutes.
-- **[Rephrase AI](https://www.rephrase.ai/)**: Rephrase's technology enables hyper-personalized video creation at scale that drive engagement and business efficiencies.
+- **[Rephrase AI](https://www.rephrase.ai/)**: Rephrase's technology enables hyper-personalized video creation at scale that drive engagement and business.
 - **[Hour One](https://hourone.ai/)**: Turn text into video, featuring virtual presenters, automatically.
 - **[D-ID](https://www.d-id.com/)**: Create and interact with talking avatars at the touch of a button.
 - **[ShortVideoGen](https://shortgen.video/)**: Create short videos with audio using text prompts.
@@ -890,7 +890,7 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **[Buffer AI](https://buffer.com)**: Assistant for drafting and scheduling social media content.
 - **[Canva Magic Studio](https://canva.com)**: Complete AI-powered design suite.
 - **[InVideo AI](https://invideo.io)**: Create social media videos from a simple script.
-- **[NotFair](https://notfair.co/)**: Hosted Google Ads MCP server connecting Claude and other AI agents to a Google Ads account; diagnose performance, recommend optimizations, and execute approved changes.
+- **[NotFair](https://notfair.co/)**: Hosted Google Ads MCP server connecting Claude and other AI agents to a Google Ads account; diagnose performance,.
 
 ### E-commerce & Retail
 - **[Klaviyo (AI)](https://klaviyo.com)**: Predictive marketing and sales automation for online stores.

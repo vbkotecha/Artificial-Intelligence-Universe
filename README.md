@@ -1010,10 +1010,19 @@ This is a comprehensive and organized collection of directories, tools, learning
 
 
 ## 🤝 Contributing
-Found a cool AI tool? Contributions are welcome!
-1. Fork the repo.
-2. Add your tool to the right category.
-3. Open a Pull Request.
+
+Contributions make this catalog what it is — thank you for considering it! Whether you're adding a new AI tool, fixing a broken link, or proposing a new category, we welcome your help.
+
+> **📖 Read the full [Contributing Guide](CONTRIBUTING.md) before submitting** — it covers the entry format spec, line ending requirements, and the PR checklist in detail.
+
+**Three main ways to contribute:**
+- **Add a tool** — Find an AI tool not yet listed and submit it in the [exact format](CONTRIBUTING.md#entry-format-specification).
+- **Fix a broken link** — Report dead or compromised URLs via the [Broken Link template](https://github.com/frangelbarrera/Artificial-Intelligence-Universe/issues/new?template=broken_link.md).
+- **Propose a category** — Open an issue using the [Category Proposal template](https://github.com/frangelbarrera/Artificial-Intelligence-Universe/issues/new?template=category_proposal.md) before sending a PR.
+
+Every contribution counts. Quality contributors are recognized in the [Contributors graph](https://github.com/frangelbarrera/Artificial-Intelligence-Universe/graphs/contributors) and may be invited as collaborators.
+
+🌟 **Star this repo if you find it useful — it helps more people discover the catalog!**
 
 
 

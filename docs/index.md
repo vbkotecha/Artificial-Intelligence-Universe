@@ -23,8 +23,6 @@ Every tool listed here has been carefully organized into 50+ categories, from fo
 | 📁 Categories | **50+** |
 | 📚 Free learning resources | **25+** |
 
----
-
 ## Contributing
 
 Found a tool that belongs here? Contributions make this catalog what it is. Read the [Contributing Guide](https://github.com/frangelbarrera/Artificial-Intelligence-Universe/blob/main/CONTRIBUTING.md) for the format spec, checklist, and step-by-step instructions.

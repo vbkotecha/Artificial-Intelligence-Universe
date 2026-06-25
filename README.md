@@ -667,6 +667,7 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **[MinusX](https://minusx.ai/)**: Have an AI Analyst answer all your data questions reliably on Metabase
 - **[Excelmatic](https://excelmatic.ai)**: AI-Powered Excel Data Analysis and Visualization, Skip the functions—just upload, chat, and watch your data turn into insights and visuals.
 - **[Langfa.st](https://langfa.st/)**: A fast, no-signup playground to test and share AI prompt templates
+- **[CallURL](https://callurl.com)**: Build a free Call App in 60 seconds, give it a job, and share it by link or QR to handle calls for workflows like lead qualification, quote requests, surveys, support, and screening.
 - **[SalesAgent Chat](https://www.salesagent.chat)**: AI Sales Coach & Copilot for real-time support
 - **[ReBillion.ai](https://tc.rebillion.ai/)**: AI-powered transaction coordination and workflow automation for real estate professionals
 - **[Perch Reader](https://perch.app/)**: Free blog and newsletter aggregator with AI summaries and text-to-speech

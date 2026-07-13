@@ -521,7 +521,7 @@ This is a comprehensive and organized collection of directories, tools, learning
 - **[MCP Market](https://mcpmarket.com/)**: Marketplace for MCP-related tools and services.
 - **[Cursor MCP Directory](https://cursor.directory/mcp)**: Directory of MCP servers and tools curated by Cursor.
 - **[VSCode MCP Directory](https://code.visualstudio.com/mcp)**: Official VSCode directory for MCP servers and integrations.
-- **[AIServices](https://aiservices.to)**: 29-service API platform for AI agents — crypto market data, DeFi yields, whale tracking, and dispute resolution. MCP endpoint with x402 micropayments on Base.
+- **[AgentServices](https://agentservices.to)**: 50+ paid x402 data APIs for AI agents — finance, market intelligence, inference, and dispute resolution. MCP server with 37 tools. Agents discover, authenticate, and pay autonomously.
 - **[Claude MCP Servers](https://www.claudemcp.com/servers)**: Claude's curated list of MCP servers.
 - **[PulseMCP Server Directory](https://www.pulsemcp.com/servers)**: Large, frequently updated directory of MCP servers, including trending, official, and community servers across many.
 - **[MCPServers.Net](https://mcpservers.net/)**: Comprehensive MCP server navigation platform, featuring official and community servers, tutorials, and resources.
